@@ -233,3 +233,4 @@ with base lf
 Just set `set sixel true` in lfrc, and Install `chafa`
 
 I will soon update the lfInstall script
+# mine_arch
